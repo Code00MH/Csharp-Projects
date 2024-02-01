@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\bin\Debug\calcmedia.exe.config
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\bin\Debug\calcmedia.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\bin\Debug\calcmedia.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.Form1.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\C#\calcmedia\calcmedia\obj\Debug\calcmedia.pdb
